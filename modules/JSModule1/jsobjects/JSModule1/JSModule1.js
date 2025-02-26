@@ -5,6 +5,19 @@ export default {
 		QueryModule1.run();
 		return QueryModule1.data;
 	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	async myFun2 () {
 		//	use async-await or promises
 		//	await storeValue('varName', 'hello world')
