@@ -7,6 +7,7 @@
   "unpublishedModuleInstance": {
     "contextType": "MODULE",
     "inputs": {},
+    "moduleId": "JSModule1",
     "moduleInputs": {},
     "name": "QueryModule1"
   }
