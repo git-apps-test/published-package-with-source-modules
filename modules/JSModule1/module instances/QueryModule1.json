@@ -1,5 +1,5 @@
 {
-  "gitSyncId": "67becbb424fea227d4bf048e_e8113c93-0ba0-4b7c-b324-8e596a03fff9",
+  "gitSyncId": "67d8593eaebb1257acb23fbc_e1b15a77-72b3-49cc-bc15-7d5b2487e71b",
   "id": "JSModule1_QueryModule1",
   "moduleUUID": "f7471ccf-c325-4926-939b-48c4f829ec8d",
   "packageUUID": "0a421f1b-cbfd-455b-8b92-beadf5fc6ed8",
@@ -7,6 +7,7 @@
   "unpublishedModuleInstance": {
     "contextType": "MODULE",
     "inputs": {},
+    "moduleId": "JSModule1",
     "moduleInputs": {},
     "name": "QueryModule1"
   }
