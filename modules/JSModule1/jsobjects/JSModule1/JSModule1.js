@@ -6,7 +6,7 @@ export default {
 		return QueryModule1.data;
 	},
 	async myFun2 () {
-		return "version 1.2.2";
+		return "version 1.2.3";
 		//	use async-await or promises
 		//	await storeValue('varName', 'hello world')
 	}
