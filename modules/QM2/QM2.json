@@ -1,0 +1,15 @@
+{
+  "gitSyncId": "67e2764ae2f5e42e07e7b5f9_2f20c2aa-d39f-42db-84ed-d3708712d5c0",
+  "moduleUUID": "9adb93f6-1572-4f52-bf7e-2f9ab69ebdb0",
+  "type": "QUERY_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [],
+        "id": "comuklwowq",
+        "sectionName": ""
+      }
+    ],
+    "name": "QM2"
+  }
+}
