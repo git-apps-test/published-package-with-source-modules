@@ -7,6 +7,7 @@ export default {
 	},
 	async myFun2 () {
 		// some newer comments before commit to another branch;
+		// added comments for feature-3 and what not;
 		return "version 1.2.3";
 		//	use async-await or promises
 		//	await storeValue('varName', 'hello world')
